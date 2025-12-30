@@ -1,2 +1,2 @@
 # Project1
-Cahtting Application
+Chatting Application
